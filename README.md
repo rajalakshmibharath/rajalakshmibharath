@@ -7,7 +7,7 @@ Hello! Welcome to my GitHub page.
 
 3. Automating machine learning models with streamlit:: https://github.com/rajalakshmibharath/automating_ml_models.git
 
-4. Image classification :: https://github.com/rajalakshmibharath/image_classification.git
+4. Image recognition_gender prediction :: https://github.com/rajalakshmibharath/image_classification.git
 
 5. Zomato EDA :: https://github.com/rajalakshmibharath/zomato_eda.git
 
