@@ -1,16 +1,9 @@
-Hello! Welcome to my GitHub page.
+Hello! Welcome to my GitHub page !!
 
+I am Rajalakshmi Raghu. A little bit about me. I have done my undergradtuate in B.Tech Information Technology and masters in Data Science, AI and Digital Business. 
 
-1. Sign language gesture prediction :: https://github.com/rajalakshmibharath/sign_language_gesture_prediction.git
+The repositories holds all of my personal projects that have done for the past year, where I started my journey as a Data Scientist. Currently the projects are pinned under two categories.
 
-2. Text summarization with spacy :: https://github.com/rajalakshmibharath/text_summarization_with_spacy.git
+1. Data Science Projects
+2. Visualization Projects
 
-3. Automating machine learning models with streamlit:: https://github.com/rajalakshmibharath/automating_ml_models.git
-
-4. Image recognition_gender prediction :: https://github.com/rajalakshmibharath/image_classification.git
-
-5. Zomato EDA :: https://github.com/rajalakshmibharath/zomato_eda.git
-
-6. Disease prediction with streamlit :: https://github.com/rajalakshmibharath/disease-prediction_with_streamlit.git
-
-7. Chronic Kidney disease prediction :: https://github.com/rajalakshmibharath/chronic_kidney_disease_prediction.git
