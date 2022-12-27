@@ -4,6 +4,6 @@ I am Rajalakshmi Raghu. A little bit about me. I have done my undergradtuate in 
 
 The repositories holds some of my personal projects that have done for the past year, where I started my journey as a Data Scientist. Currently the prtojects are binned under two categories.
 
-1. [Data Science Projects] (https://github.com/rajalakshmibharath/Data-Science-Projects)
+1. [Data Science Projects](https://github.com/rajalakshmibharath/Data-Science-Projects)
 
-2. [Visualization Projects] (https://github.com/rajalakshmibharath/Visualization_Projects)
+2. [Visualization Projects](https://github.com/rajalakshmibharath/Visualization_Projects)
