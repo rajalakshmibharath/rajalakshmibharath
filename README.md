@@ -20,6 +20,8 @@ I have done my master's in Data Science, AI, and Digital Business and an undergr
 
 ### Languages and Tools
 
+![image](https://github.com/rajalakshmibharath/rajalakshmibharath/assets/83939043/f5137724-1575-4f04-b4d2-c45d7b667dad)
+
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
