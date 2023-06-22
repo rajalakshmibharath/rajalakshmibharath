@@ -6,16 +6,16 @@ Data Scientist
 
 I have done my master's in Data Science, AI, and Digital Business and an undergraduate in B.Tech Information Technology. I have two years of experience as a programming analyst. I enjoy working with data and spend most of my time working across different areas of data science pipelines and building end-to-end machine learning and deep learning models.
 
+* 🌍  I'm based in Wolfsburg, Germany
+* 🖥️  See my portfolio at [MyPortfolio](http://https://rajalakshmiraghu.netlify.app/)
+* ✉️  You can contact me at [rajalakshmibharath22@gmail.com](mailto:rajalakshmibharath22@gmail.com)
+
 ### Technical Skills
 
 * Deep Learning
 * Machine Learning
 * Computer vision
 * Natural Language Processing
-
-* 🌍  I'm based in Wolfsburg, Germany
-* 🖥️  See my portfolio at [MyPortfolio](http://https://rajalakshmiraghu.netlify.app/)
-* ✉️  You can contact me at [rajalakshmibharath22@gmail.com](mailto:rajalakshmibharath22@gmail.com)
 
 
 ### Skills
