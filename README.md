@@ -36,7 +36,7 @@ I have done my master's in Data Science, AI, and Digital Business and an undergr
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://logosdownload.com/logo/scikit-learn-logo-1024.png" width="36" height="36" alt="Sklearn" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="36" height="36" alt="Tensorflow" /></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="36" height="36" alt="opencv" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" width="36" height="36" alt="postman" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/354202/postman-icon.svg" width="36" height="36" alt="postman" /></a>
 </p>
 
 
