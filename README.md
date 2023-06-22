@@ -10,14 +10,14 @@ I have done my master's in Data Science, AI, and Digital Business and an undergr
 * 🖥️  See my portfolio at [MyPortfolio](http://rajalakshmiraghu.netlify.app/)
 * ✉️  You can contact me at [rajalakshmibharath22@gmail.com](mailto:rajalakshmibharath22@gmail.com)
 
-### Technical Skills
+### Skills
 
 * Deep Learning
 * Machine Learning
 * Computer vision
 * Natural Language Processing  
 
-### Skills
+### Languages and Tools
 
 
 <p align="left">
