@@ -12,6 +12,7 @@ I have done my master's in Data Science, AI, and Digital Business and an undergr
 
 ### Skills
 
+* Data Analysis
 * Deep Learning
 * Machine Learning
 * Computer vision
